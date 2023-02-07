@@ -1,0 +1,24 @@
+body {
+    margin: 1em;
+    background-image: url("./record.png");
+    background-color: rgb(207, 228, 245);
+    background-repeat: round;
+    background-size: contain;
+}
+
+title {
+    background-color: rgb(11, 60, 36);
+    color: rgb(240, 255, 240);
+    text-align: center;
+    border-radius: 10em;
+    border: solid;
+
+}
+
+page {
+    background-color: rgb(158, 9, 9);
+    text-align: center;
+    padding: 1em;
+    border-radius: 10em;
+    border: solid;
+}
